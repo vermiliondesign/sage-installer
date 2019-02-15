@@ -1,6 +1,6 @@
 {
-  "name": "roots/sage-installer",
-  "description": "Sage starter theme installer",
+  "name": "vermiliondesign/sage-installer",
+  "description": "Vermilion Fork of Sage starter theme installer",
   "keywords": [
     "sage",
     "wordpress",
@@ -21,6 +21,11 @@
       "name": "Ben Word",
       "email": "ben@benword.com",
       "homepage": "https://github.com/retlehs"
+    },
+    {
+      "name": "Matt Dickey",
+      "email": "mattdickey@vermilion.com",
+      "homepage": "https://github.com/8bit-echo"
     }
   ],
   "bin": [
