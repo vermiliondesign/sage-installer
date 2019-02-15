@@ -1,12 +1,12 @@
 <?php
 
-namespace Vermilion\Sage\Installer\Transformations;
+namespace Roots\Sage\Installer\Transformations;
 
 use ArrayAccess;
 use ArrayIterator;
 use IteratorAggregate;
 use Illuminate\Contracts\Support\Arrayable;
-use Vermilion\Sage\Installer\Presets\Preset;
+use Roots\Sage\Installer\Presets\Preset;
 
 class Presets implements Arrayable, ArrayAccess, IteratorAggregate
 {

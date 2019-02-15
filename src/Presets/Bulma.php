@@ -1,6 +1,6 @@
 <?php
 
-namespace Vermilion\Sage\Installer\Presets;
+namespace Roots\Sage\Installer\Presets;
 
 class Bulma extends Preset
 {

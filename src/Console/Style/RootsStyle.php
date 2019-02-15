@@ -1,6 +1,6 @@
 <?php
 
-namespace Vermilion\Sage\Installer\Console\Style;
+namespace Roots\Sage\Installer\Console\Style;
 
 use Illuminate\Console\OutputStyle;
 

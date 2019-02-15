@@ -1,10 +1,10 @@
 <?php
 
-namespace Vermilion\Sage\Installer;
+namespace Roots\Sage\Installer;
 
-use Vermilion\Sage\Installer\Console\Commands\MetaCommand;
-use Vermilion\Sage\Installer\Console\Commands\PresetCommand;
-use Vermilion\Sage\Installer\Console\Commands\ConfigCommand;
+use Roots\Sage\Installer\Console\Commands\MetaCommand;
+use Roots\Sage\Installer\Console\Commands\PresetCommand;
+use Roots\Sage\Installer\Console\Commands\ConfigCommand;
 
 class Installer
 {

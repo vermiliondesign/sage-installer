@@ -1,9 +1,9 @@
 <?php
 
-namespace Vermilion\Sage\Installer;
+namespace Roots\Sage\Installer;
 
 use Composer\Script\Event;
-use Vermilion\Sage\Installer\Console\Exceptions\ConfigureCommandException;
+use Roots\Sage\Installer\Console\Exceptions\ConfigureCommandException;
 use Symfony\Component\Process\Exception\RuntimeException;
 use Symfony\Component\Process\Process;
 use Symfony\Component\Process\ProcessBuilder;

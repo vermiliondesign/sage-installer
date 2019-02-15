@@ -1,6 +1,6 @@
 <?php
 
-namespace Vermilion\Sage\Installer\Transformations;
+namespace Roots\Sage\Installer\Transformations;
 
 use Illuminate\Support\Collection;
 

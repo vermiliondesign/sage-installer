@@ -1,8 +1,8 @@
 <?php
 
-namespace Vermilion\Sage\Installer\Console\Commands;
+namespace Roots\Sage\Installer\Console\Commands;
 
-use Vermilion\Sage\Installer\Console\Exceptions\ConfigureCommandException;
+use Roots\Sage\Installer\Console\Exceptions\ConfigureCommandException;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Input\InputOption;
 use Symfony\Component\Console\Output\OutputInterface;
