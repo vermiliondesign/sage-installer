@@ -1,10 +1,10 @@
 <?php
 
-namespace Roots\Sage\Installer\Console\Commands;
+namespace Vermilion\Sage\Installer\Console\Commands;
 
 use Illuminate\Console\Command as BaseCommand;
-use Roots\Sage\Installer\Console\Exceptions\ConfigureCommandException;
-use Roots\Sage\Installer\Console\Input\InputDefinition;
+use Vermilion\Sage\Installer\Console\Exceptions\ConfigureCommandException;
+use Vermilion\Sage\Installer\Console\Input\InputDefinition;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
 

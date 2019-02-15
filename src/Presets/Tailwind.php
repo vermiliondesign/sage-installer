@@ -1,6 +1,6 @@
 <?php
 
-namespace Roots\Sage\Installer\Presets;
+namespace Vermilion\Sage\Installer\Presets;
 
 class Tailwind extends Preset
 {

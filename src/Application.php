@@ -1,9 +1,9 @@
 <?php
 
-namespace Roots\Sage\Installer;
+namespace Vermilion\Sage\Installer;
 
-use Roots\Sage\Installer\Console\Exceptions\ConfigureCommandException;
-use Roots\Sage\Installer\Console\Style\RootsStyle as OutputStyle;
+use Vermilion\Sage\Installer\Console\Exceptions\ConfigureCommandException;
+use Vermilion\Sage\Installer\Console\Style\RootsStyle as OutputStyle;
 use Symfony\Component\Console\Application as BaseApplication;
 use Symfony\Component\Console\Input\ArgvInput;
 use Symfony\Component\Console\Input\InputInterface;
@@ -12,7 +12,7 @@ use Symfony\Component\Console\Output\OutputInterface;
 
 class Application extends BaseApplication
 {
-    public function __construct($name = 'Sage Installer', $version = '1.0.0')
+    public function __construct($name = 'Vermilion Sage Installer', $version = '1.0.0')
     {
         $this->isWordPress();
         parent::__construct($name, $version);

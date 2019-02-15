@@ -1,11 +1,11 @@
 <?php
 
-namespace Roots\Sage\Installer;
+namespace Vermilion\Sage\Installer;
 
-use Roots\Sage\Installer\Application;
-use Roots\Sage\Installer\Console\Commands\MetaCommand;
-use Roots\Sage\Installer\Console\Commands\PresetCommand;
-use Roots\Sage\Installer\Console\Commands\ExtrasCommand;
+use Vermilion\Sage\Installer\Application;
+use Vermilion\Sage\Installer\Console\Commands\MetaCommand;
+use Vermilion\Sage\Installer\Console\Commands\PresetCommand;
+use Vermilion\Sage\Installer\Console\Commands\ExtrasCommand;
 
 function application($commands = [])
 {
