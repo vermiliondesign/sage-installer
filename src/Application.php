@@ -1,9 +1,9 @@
 <?php
 
-namespace Roots\Sage\Installer;
+namespace VermilionDesign\Sage\Installer;
 
-use Roots\Sage\Installer\Console\Exceptions\ConfigureCommandException;
-use Roots\Sage\Installer\Console\Style\RootsStyle as OutputStyle;
+use VermilionDesign\Sage\Installer\Console\Exceptions\ConfigureCommandException;
+use VermilionDesign\Sage\Installer\Console\Style\RootsStyle as OutputStyle;
 use Symfony\Component\Console\Application as BaseApplication;
 use Symfony\Component\Console\Input\ArgvInput;
 use Symfony\Component\Console\Input\InputInterface;

@@ -1,6 +1,6 @@
 <?php
 
-namespace Roots\Sage\Installer\Console\Exceptions;
+namespace VermilionDesign\Sage\Installer\Console\Exceptions;
 
 use Symfony\Component\Console\Exception\RuntimeException;
 

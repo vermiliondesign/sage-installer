@@ -1,6 +1,6 @@
 <?php
 
-namespace Roots\Sage\Installer\Console\Input;
+namespace VermilionDesign\Sage\Installer\Console\Input;
 
 use Symfony\Component\Console\Input\InputDefinition as InputDefinitionBase;
 use Symfony\Component\Console\Input\InputOption;

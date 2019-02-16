@@ -1,6 +1,6 @@
 <?php
 
-namespace Roots\Sage\Installer\Presets;
+namespace VermilionDesign\Sage\Installer\Presets;
 
 use Symfony\Component\Finder\SplFileInfo;
 use Illuminate\Filesystem\Filesystem;

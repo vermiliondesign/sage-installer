@@ -1,11 +1,11 @@
 <?php
 
-namespace Roots\Sage\Installer\Console\Commands;
+namespace VermilionDesign\Sage\Installer\Console\Commands;
 
 use Illuminate\Support\Collection;
 use Illuminate\Support\Str;
-use Roots\Sage\Installer\Console\Exceptions\ConfigureCommandException;
-use Roots\Sage\Installer\Transformations\ThemeHeaders;
+use VermilionDesign\Sage\Installer\Console\Exceptions\ConfigureCommandException;
+use VermilionDesign\Sage\Installer\Transformations\ThemeHeaders;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Input\InputOption;
 use Symfony\Component\Console\Output\OutputInterface;

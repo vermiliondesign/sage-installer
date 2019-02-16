@@ -33,7 +33,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "Vermilion\\Sage\\Installer\\": "src/"
+      "VermilionDesign\\Sage\\Installer\\": "src/"
     }
   },
   "require": {
