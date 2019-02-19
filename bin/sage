@@ -5,4 +5,5 @@ if (!@include_once __DIR__ . '/../vendor/autoload.php') {
     @include_once __DIR__ . '/../../../autoload.php';
 }
 
+echo "This is the dev package \r\n";
 $app = (new VermilionDesign\Sage\Installer\Installer)->app->run();
