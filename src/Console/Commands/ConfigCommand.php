@@ -35,7 +35,7 @@ class ConfigCommand extends Command
             'path',
             null,
             InputOption::VALUE_REQUIRED,
-            'Path to theme directory (e.g., /wp-content/themes/'.basename($this->root).') '
+            'Path to theme directory (e.g., /app/themes/'.basename($this->root).') '
                 ."<comment>[default: \"{$this->config['publicPath']}\"]</comment>",
             null
         );
@@ -57,7 +57,7 @@ class ConfigCommand extends Command
 
         $path = $this->option('path')
             ?: $this->ask(
-                'Path to theme directory (e.g., /wp-content/themes/'.basename($this->root).')',
+                'Path to theme directory (e.g., /app/themes/'.basename($this->root).')',
                 $this->config['publicPath']
             );
 
